@@ -1,0 +1,1 @@
+Student Committee Portal is a Python console app for managing college committees and events. Built using core concepts from my FYCS Sem-1 syllabus (loops, functions, lists, dictionaries), it lets users add members, assign roles, and schedule events via a simple menu, highlighting practical first-year coding skills.
